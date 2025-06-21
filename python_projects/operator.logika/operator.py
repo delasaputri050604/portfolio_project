@@ -1,0 +1,15 @@
+print("operasi AND")
+print("True and True \t:", (True and True))
+print("True and False \t:", (True and False))
+print("False and True \t:", (False and True))
+print("False and False \t:", (False and False))
+
+print("\n Operasi OR")
+print("True or True \t:", (True or True))
+print("True or False \t:", (True or False))
+print("False or True \t:", (False or True ))
+print("False or False \t:", (False or False))
+
+print("\n Operasi NOT")
+print("not true \t:", not True)
+print("not false \t:", not False)
